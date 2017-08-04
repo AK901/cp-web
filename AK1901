@@ -1,0 +1,6 @@
+cd $GOPATH
+mkdir -p src/github.com/<YOUR_GITHUB_ID_HERE>/
+cd src/github.com/<YOUR_GITHUB_ID_HERE>/
+git clone -b v1.0 https://github.com/<YOUR_GITHUB_ID_HERE>/learn-chaincode.git
+OR
+git clone -b v2.0 https://github.com/<YOUR_GITHUB_ID_HERE>/learn-chaincode.git
